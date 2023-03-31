@@ -1,0 +1,129 @@
+2023-03-16 15:04:11,240-root-INFO-Drive name file namec://
+2023-03-16 15:04:11,241-root-INFO-class usedsearchFile
+2023-03-16 15:04:11,312-root-INFO-myhcl database is connected
+2023-03-16 15:04:11,313-root-INFO-Not found in Database
+2023-03-16 15:04:11,314-root-INFO-Now searching in Drives
+2023-03-16 15:05:52,759-root-INFO-Drive name file namec://
+2023-03-16 15:05:52,759-root-INFO-class usedsearchFile
+2023-03-16 15:07:43,412-root-INFO-Drive namec:/ file namelinux -4.vdmk
+2023-03-16 15:07:43,413-root-INFO-class usedsearchFile
+2023-03-16 15:10:40,922-root-INFO-Drive namec:// file nameLinux -4.vdmk
+2023-03-16 15:10:40,923-root-INFO-class usedsearchFile
+2023-03-16 15:10:40,985-root-INFO-myhcl database is connected
+2023-03-16 15:10:40,988-root-INFO-Not found in Database
+2023-03-16 15:10:40,988-root-INFO-Now searching in Drives
+2023-03-16 15:12:50,871-root-INFO-Drive namec:// file nameLinux-4.vdmk
+2023-03-16 15:12:50,872-root-INFO-class usedsearchFile
+2023-03-16 15:12:51,162-root-INFO-myhcl database is connected
+2023-03-16 15:12:51,164-root-INFO-Not found in Database
+2023-03-16 15:12:51,164-root-INFO-Now searching in Drives
+2023-03-16 15:13:55,086-root-INFO-Drive namec:// file nameLinux-4.vdmk
+2023-03-16 15:13:55,087-root-INFO-class usedsearchFile
+2023-03-16 15:13:55,158-root-INFO-myhcl database is connected
+2023-03-16 15:13:55,160-root-INFO-Not found in Database
+2023-03-16 15:13:55,160-root-INFO-Now searching in Drives
+2023-03-16 15:13:55,160-root-INFO-for searching in drive searchfilesdrives is used
+2023-03-16 15:16:45,899-root-INFO-Drive namec:// file nameLinux-4.vdmk
+2023-03-16 15:16:45,899-root-INFO-class usedsearchFile
+2023-03-16 15:16:45,971-root-INFO-myhcl database is connected
+2023-03-16 15:16:45,972-root-INFO-Not found in Database
+2023-03-16 15:16:45,973-root-INFO-Now searching in Drives
+2023-03-16 15:16:45,973-root-INFO-for searching in drive searchfilesdrives is used
+2023-03-16 15:16:55,592-root-INFO-files found []
+2023-03-16 15:16:55,659-root-INFO-time taken9.620716333389282
+2023-03-16 15:16:55,659-root-INFO-Ending
+2023-03-16 15:18:00,368-root-INFO-Drive namec:/ file namedemo.txt
+2023-03-16 15:18:00,368-root-INFO-class usedsearchFile
+2023-03-16 15:18:00,447-root-INFO-myhcl database is connected
+2023-03-16 15:18:00,448-root-INFO-Not found in Database
+2023-03-16 15:18:00,449-root-INFO-Now searching in Drives
+2023-03-16 15:18:00,449-root-INFO-for searching in drive searchfilesdrives is used
+2023-03-16 15:18:09,703-root-INFO-files found ['c:/gayatri\\demo.txt']
+2023-03-16 15:18:09,704-root-INFO-time taken9.255700826644897
+2023-03-16 15:18:09,704-root-INFO-Ending
+2023-03-16 15:40:38,606-root-INFO-Drive namec:// file nameLinux-4.vdmk
+2023-03-16 15:40:38,606-root-INFO-class usedsearchFile
+2023-03-16 15:40:38,684-root-INFO-myhcl database is connected
+2023-03-16 15:40:38,686-root-INFO-Not found in Database
+2023-03-16 15:40:38,686-root-INFO-Now searching in Drives
+2023-03-16 15:40:38,686-root-INFO-for searching in drive searchfilesdrives is used
+2023-03-16 15:40:47,987-root-INFO-files found []
+2023-03-16 15:40:47,988-root-INFO-time taken9.30220627784729
+2023-03-16 15:40:47,988-root-INFO-Ending
+2023-03-16 15:45:22,905-root-INFO-Drive namec:// file name52138229.docx
+2023-03-16 15:45:22,906-root-INFO-class usedsearchFile
+2023-03-16 15:45:22,989-root-INFO-myhcl database is connected
+2023-03-16 15:45:22,990-root-INFO-Not found in Database
+2023-03-16 15:45:22,991-root-INFO-Now searching in Drives
+2023-03-16 15:45:22,991-root-INFO-for searching in drive searchfilesdrives is used
+2023-03-16 15:45:32,452-root-INFO-files found ['c://Users\\user351\\Documents\\52138229.docx']
+2023-03-16 15:45:32,453-root-INFO-time taken9.461525917053223
+2023-03-16 15:45:32,453-root-INFO-Ending
+2023-03-16 15:45:59,253-root-INFO-Drive namec:// file name52138229.docx
+2023-03-16 15:45:59,254-root-INFO-class usedsearchFile
+2023-03-16 15:45:59,326-root-INFO-myhcl database is connected
+2023-03-16 15:46:45,018-root-INFO-Drive namec:// file name52138229.docx
+2023-03-16 15:46:45,019-root-INFO-class usedsearchFile
+2023-03-16 15:46:45,092-root-INFO-myhcl database is connected
+2023-03-16 15:53:31,109-root-INFO-Drive namec:// file nameLinux-4.vdmk
+2023-03-16 15:53:31,109-root-INFO-class usedsearchFile
+2023-03-16 15:53:31,183-root-INFO-myhcl database is connected
+2023-03-16 15:53:31,185-root-INFO-Not found in Database
+2023-03-16 15:53:31,185-root-INFO-Now searching in Drives
+2023-03-16 15:53:31,185-root-INFO-for searching in drive searchfilesdrives is used
+2023-03-16 15:53:40,235-root-INFO-files found []
+2023-03-16 15:53:40,236-root-INFO-time taken9.050647258758545
+2023-03-16 15:53:40,237-root-INFO-Ending
+2023-03-16 15:54:21,727-root-INFO-Drive namec:// file name52138229.doc
+2023-03-16 15:54:21,728-root-INFO-class usedsearchFile
+2023-03-16 15:54:21,807-root-INFO-myhcl database is connected
+2023-03-16 15:54:21,808-root-INFO-Not found in Database
+2023-03-16 15:54:21,808-root-INFO-Now searching in Drives
+2023-03-16 15:54:21,808-root-INFO-for searching in drive searchfilesdrives is used
+2023-03-16 15:54:31,105-root-INFO-files found []
+2023-03-16 15:54:31,105-root-INFO-time taken9.296478271484375
+2023-03-16 15:54:31,106-root-INFO-Ending
+2023-03-16 17:04:36,100-root-INFO-Drive namec:// file name52138229.doc
+2023-03-16 17:04:36,101-root-INFO-class usedsearchFile
+2023-03-16 17:04:36,176-root-INFO-myhcl database is connected
+2023-03-16 17:04:36,177-root-INFO-Not found in Database
+2023-03-16 17:04:36,178-root-INFO-Now searching in Drives
+2023-03-16 17:04:36,178-root-INFO-for searching in drive searchfilesdrives is used
+2023-03-16 17:04:45,988-root-INFO-files found []
+2023-03-16 17:04:45,989-root-INFO-time taken9.811660766601562
+2023-03-16 17:04:45,989-root-INFO-Ending
+2023-03-16 17:56:04,288-root-INFO-Drive namec:// d:// file name
+2023-03-16 17:56:04,349-root-INFO-class usedsearchFile
+2023-03-16 17:57:21,422-root-INFO-Drive namec:// file name52138229.doc
+2023-03-16 17:57:21,422-root-INFO-class usedsearchFile
+2023-03-16 17:57:21,634-root-INFO-myhcl database is connected
+2023-03-16 17:57:21,637-root-INFO-Not found in Database
+2023-03-16 17:57:21,637-root-INFO-Now searching in Drives
+2023-03-16 17:57:21,637-root-INFO-for searching in drive searchfilesdrives is used
+2023-03-16 17:58:54,728-root-INFO-Drive name file namec://
+2023-03-16 17:58:54,728-root-INFO-class usedsearchFile
+2023-03-16 17:58:54,812-root-INFO-myhcl database is connected
+2023-03-16 17:58:54,813-root-INFO-Not found in Database
+2023-03-16 17:58:54,813-root-INFO-Now searching in Drives
+2023-03-16 17:58:54,814-root-INFO-for searching in drive searchfilesdrives is used
+2023-03-16 18:01:06,179-root-INFO-Drive name file namec://
+2023-03-16 18:01:06,180-root-INFO-class usedsearchFile
+2023-03-16 18:01:06,254-root-INFO-myhcl database is connected
+2023-03-16 18:01:06,255-root-INFO-Not found in Database
+2023-03-16 18:01:06,255-root-INFO-Now searching in Drives
+2023-03-16 18:01:06,255-root-INFO-for searching in drive searchfilesdrives is used
+2023-03-16 18:14:33,011-root-INFO-Drive namec:// file namedemo.txt
+2023-03-16 18:14:33,012-root-INFO-class usedsearchFile
+2023-03-16 18:14:33,111-root-INFO-myhcl database is connected
+2023-03-19 20:45:08,522-root-INFO-Drive namec:// file nameLinux-4.vdmk
+2023-03-19 20:45:08,524-root-INFO-class usedsearchFile
+2023-03-19 20:45:08,818-root-INFO-myhcl database is connected
+2023-03-19 20:45:08,827-root-INFO-Not found in Database
+2023-03-19 20:45:08,828-root-INFO-Now searching in Drives
+2023-03-19 20:45:08,828-root-INFO-for searching in drive searchfilesdrives is used
+2023-03-19 20:45:46,433-root-INFO-Drive namec:// file name52138229.doc
+2023-03-19 20:45:46,434-root-INFO-class usedsearchFile
+2023-03-19 20:45:46,537-root-INFO-myhcl database is connected
+2023-03-19 20:45:46,539-root-INFO-Not found in Database
+2023-03-19 20:45:46,539-root-INFO-Now searching in Drives
+2023-03-19 20:45:46,539-root-INFO-for searching in drive searchfilesdrives is used
